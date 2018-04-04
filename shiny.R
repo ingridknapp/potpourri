@@ -1,3 +1,4 @@
+#Ingrid_Knapp_class_10
 ## 4/3: Collaboration mini project I: shiny
 ## shiny tutorial adapted from various sites, primarily http://shiny.rstudio.com/tutorial/ and https://www.r-bloggers.com/building-shiny-apps-an-interactive-tutorial/ 
 ## Package developed by: Winston Chang, Joe Cheng, JJ Allaire, Yihui Xie and Jonathan McPherson (2017). 
